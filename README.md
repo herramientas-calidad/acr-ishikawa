@@ -1,6 +1,6 @@
 # ACR · Ishikawa
 
-Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.03).
+Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.04).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para **buscar las causas de fondo** de un problema o de un incidente, paso a paso y sin buscar culpables.
 
@@ -14,8 +14,9 @@ Buscar las causas de un problema, en cuatro pasos:
 - Cuatro juegos de categorías: las siete habituales en sanidad, el Protocolo de Londres 2024, SEIPS y las 6M, y uno propio.
 - La espina, lista para pegar: copiarla como imagen, PNG de alta resolución, SVG y plantilla en blanco para la reunión.
 - Ficha del análisis en Word, PDF y Excel, con la espina dentro.
-- **Aprende**, **Ponte a prueba**, **glosario** y un **ejemplo** (Urgencias, ficticio).
-- El análisis causa raíz completo de un incidente llega en las próximas versiones.
+- **Analizar un incidente** (análisis causa raíz, ocho pasos): matriz de riesgo SAC, equipo y plazos, cronología frente a lo que debería haber pasado, una espina por problema en la atención, afirmaciones causales con las cinco reglas, acciones con su medida, información y apoyo, e informe en Word, PDF y Excel.
+- Puede cargar el archivo de copia de las apps AMFE, Mapa de Riesgos, Rondas de Seguridad, Flujograma, Indicadores y Lectura Crítica para empezar desde sus datos.
+- **Aprende** (ocho temas), **Ponte a prueba** (veinte preguntas y dos ejercicios), **glosario**, dos ejemplos completos (Urgencias, ficticio) y seis minicasos.
 
 Los datos se guardan solo en el dispositivo; para trabajar en equipo se comparte la copia de seguridad.
 
