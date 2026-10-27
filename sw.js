@@ -4,7 +4,7 @@
 //  Al cambiar cualquier archivo, incrementa CACHE_NAME.
 // ============================================================
 
-const CACHE_NAME = "ei-acrishikawa-v1";
+const CACHE_NAME = "ei-acrishikawa-v2";
 
 const ASSETS = [
   "./",
