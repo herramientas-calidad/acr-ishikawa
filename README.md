@@ -1,6 +1,6 @@
 # ACR · Ishikawa
 
-Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.02).
+Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.03).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para **buscar las causas de fondo** de un problema o de un incidente, paso a paso y sin buscar culpables.
 
