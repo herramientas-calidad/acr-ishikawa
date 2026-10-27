@@ -1,6 +1,6 @@
 # ACR · Ishikawa
 
-Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.04).
+Aplicación web: **https://herramientas-calidad.github.io/acr-ishikawa/** (versión 2026.05).
 
 Aplicación web (PWA) estática, sin dependencias, que funciona sin conexión y se puede instalar en el móvil, para **buscar las causas de fondo** de un problema o de un incidente, paso a paso y sin buscar culpables.
 
@@ -11,7 +11,7 @@ Buscar las causas de un problema, en cuatro pasos:
 3. Elegir y comprobar con datos las causas de fondo (con votos).
 4. Acciones con su fuerza (jerarquía del informe RCA²), responsable, plazo e indicador.
 
-- Cuatro juegos de categorías: las siete habituales en sanidad, el Protocolo de Londres 2024, SEIPS y las 6M, y uno propio.
+- Cinco juegos de categorías: las siete habituales en sanidad, los siete niveles de Vincent y del Protocolo de Londres, el Protocolo de Londres 2024, SEIPS y las 6M, y uno propio.
 - La espina, lista para pegar: copiarla como imagen, PNG de alta resolución, SVG y plantilla en blanco para la reunión.
 - Ficha del análisis en Word, PDF y Excel, con la espina dentro.
 - **Analizar un incidente** (análisis causa raíz, ocho pasos): matriz de riesgo SAC, equipo y plazos, cronología frente a lo que debería haber pasado, una espina por problema en la atención, afirmaciones causales con las cinco reglas, acciones con su medida, información y apoyo, e informe en Word, PDF y Excel.
